@@ -7,9 +7,9 @@ Belajar CRUD Laravel 11 Beserta File Upload
 ```bash
   git clone https://github.com/hndko/laravel-11-crud.git
   composer Install
-  php artisan key:generate
-  php artisan storage:link
   cp .env.example .env
+  php artisan key:generate
+  php artisan storage:link  
 ```
 
 ## Documentation
